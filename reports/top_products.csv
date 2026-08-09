@@ -1,0 +1,11 @@
+product_id,product_name,category,units_sold,revenue
+9,Smartphone,Electronics,106,147274.28
+1,Laptop Pro,Electronics,60,132651.0
+10,Tablet,Electronics,132,79157.76
+48,Studio Microphone,Audio,129,47057.91
+24,Watch,Accessories,87,36553.05
+50,Noise Cancelling Headphones,Audio,79,33845.97
+14,Standing Desk,Furniture,95,26225.7
+12,Office Desk,Furniture,103,25298.86
+11,Office Chair,Furniture,106,24674.68
+5,27 Inch Monitor,Electronics,102,20623.38
