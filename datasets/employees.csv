@@ -1,0 +1,16 @@
+employee_id,first_name,last_name,department
+1,Paul,Sutton,Sales
+2,Kathy,Parker,Sales
+3,Heather,Alvarado,Sales
+4,Michael,Mckinney,Marketing
+5,Adrian,Mitchell,Customer Service
+6,Eric,Ferguson,Customer Service
+7,Matthew,Maldonado,IT
+8,Brittany,Barnett,IT
+9,Jason,Kelley,Finance
+10,Matthew,Shaffer,Finance
+11,Julia,Carey,Human Resources
+12,Savannah,May,Logistics
+13,Elizabeth,Thomas,Logistics
+14,Melissa,Collins,Management
+15,Gail,Brown,Management
